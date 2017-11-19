@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/Arrays/Arrays/bin/Debug/Arrays.exe
+/Users/twilorip/Desktop/C#/Arrays/Arrays/bin/Debug/Arrays.pdb
+/Users/twilorip/Desktop/C#/Arrays/Arrays/obj/Debug/Arrays.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/Arrays/Arrays/obj/Debug/Arrays.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/Arrays/Arrays/obj/Debug/Arrays.exe
+/Users/twilorip/Desktop/C#/Arrays/Arrays/obj/Debug/Arrays.pdb

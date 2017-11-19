@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/TypeConversion/TypeConversion/bin/Debug/TypeConversion.exe
+/Users/twilorip/Desktop/C#/TypeConversion/TypeConversion/bin/Debug/TypeConversion.pdb
+/Users/twilorip/Desktop/C#/TypeConversion/TypeConversion/obj/Debug/TypeConversion.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/TypeConversion/TypeConversion/obj/Debug/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/TypeConversion/TypeConversion/obj/Debug/TypeConversion.exe
+/Users/twilorip/Desktop/C#/TypeConversion/TypeConversion/obj/Debug/TypeConversion.pdb

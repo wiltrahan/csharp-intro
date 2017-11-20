@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/Lists/Lists/bin/Debug/Lists.exe
+/Users/twilorip/Desktop/C#/Lists/Lists/bin/Debug/Lists.pdb
+/Users/twilorip/Desktop/C#/Lists/Lists/obj/Debug/Lists.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/Lists/Lists/obj/Debug/Lists.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/Lists/Lists/obj/Debug/Lists.exe
+/Users/twilorip/Desktop/C#/Lists/Lists/obj/Debug/Lists.pdb

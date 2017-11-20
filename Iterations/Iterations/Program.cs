@@ -25,7 +25,7 @@ namespace Iterations
             }
             */
 
-            var name = "John Smith";
+            //var name = "John Smith";
             /*
             for (int i = 0; i < name.Length; i++)
             {
@@ -39,10 +39,27 @@ namespace Iterations
             }
             */
 
+            /*
             var numbers = new int[] {1, 2, 3, 4};
             foreach (var number in numbers)
             {
                 Console.WriteLine(number);
+            }
+            */
+
+
+            while (true)
+            {
+                Console.Write("Type your name ");
+                var input = Console.ReadLine();
+
+                if (!String.IsNullOrWhiteSpace(input))
+                {
+                    Console.WriteLine("@Echo: " + input);   
+                    continue;
+                }
+
+                break;
             }
         }
     }

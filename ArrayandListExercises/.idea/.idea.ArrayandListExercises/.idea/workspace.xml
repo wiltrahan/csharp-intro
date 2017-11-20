@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c4f4b65-ba13-4897-9393-849ea0a8edf5" name="Default" comment="" />
+    <list default="true" id="a35c5c32-e298-451d-b0a1-c39e73d2031b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/indexLayout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lists/.idea/.idea.Lists/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lists/.idea/.idea.Lists/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,19 +19,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lists/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ArrayandListExercises/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="41" column="55" lean-forward="false" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+            <state relative-caret-position="639">
+              <caret line="126" column="7" lean-forward="false" selection-start-line="126" selection-start-column="7" selection-end-line="126" selection-end-column="7" />
               <folding>
-                <marker date="1511204200000" expanded="false" signature="6:47" ph="..." />
-                <marker date="1511204200000" expanded="true" signature="64:1251" ph="{...}" />
-                <marker date="1511204200000" expanded="true" signature="93:1249" ph="{...}" />
-                <marker date="1511204200000" expanded="true" signature="146:1243" ph="{...}" />
-                <marker date="1511204200000" expanded="true" signature="337:408" ph="{...}" />
-                <marker date="1511204200000" expanded="true" signature="855:1004" ph="{...}" />
-                <marker date="1511204200000" expanded="true" signature="906:990" ph="{...}" />
-                <marker date="1511204200000" expanded="true" signature="1048:1119" ph="{...}" />
+                <marker date="1511205671000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1511205671000" expanded="true" signature="80:4136" ph="{...}" />
+                <marker date="1511205671000" expanded="true" signature="109:4134" ph="{...}" />
+                <marker date="1511205671000" expanded="true" signature="162:4128" ph="{...}" />
+                <marker date="1511205671000" expanded="false" signature="185:1082" ph="/* var names = new List&lt;string&gt;(); ... */" />
+                <marker date="1511205671000" expanded="false" signature="1096:1508" ph="/* Console.WriteLine(&quot;What's your name? &quot;); ... */" />
+                <marker date="1511205671000" expanded="false" signature="1534:2169" ph="/* var numbers = new List&lt;int&gt;(); ... */" />
+                <marker date="1511205671000" expanded="false" signature="2208:2921" ph="/* var numbers = new List&lt;int&gt;(); ... */" />
+                <marker date="1511205671000" expanded="true" signature="2978:3402" ph="{...}" />
+                <marker date="1511205671000" expanded="true" signature="3175:3337" ph="{...}" />
+                <marker date="1511205671000" expanded="true" signature="3655:3954" ph="{...}" />
+                <marker date="1511205671000" expanded="true" signature="3755:3867" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,12 +47,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Lists/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ArrayandListExercises/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lists/Program.cs" />
+        <option value="$PROJECT_DIR$/ArrayandListExercises/Program.cs" />
       </list>
     </option>
   </component>
@@ -73,12 +84,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Lists (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ArrayandListExercises (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -86,7 +98,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,14 +117,14 @@
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Lists/bin/Debug/Lists.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ArrayandListExercises/bin/Debug/ArrayandListExercises.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrayandListExercises/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lists/Lists.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ArrayandListExercises/ArrayandListExercises.csproj" />
       <option name="PROJECT_OUTPUT_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
@@ -124,17 +135,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c4f4b65-ba13-4897-9393-849ea0a8edf5" name="Default" comment="" />
-      <created>1511203445001</created>
+      <changelist id="a35c5c32-e298-451d-b0a1-c39e73d2031b" name="Default" comment="" />
+      <created>1511204356745</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1511203445001</updated>
-      <workItem from="1511203446214" duration="825000" />
+      <updated>1511204356745</updated>
+      <workItem from="1511204358024" duration="1309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="825000" />
+    <option name="totallyTimeSpent" value="1309000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -147,16 +158,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1400" height="806" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2827688" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3468336" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.055228278" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29857144" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -182,19 +194,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lists/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ArrayandListExercises/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="41" column="55" lean-forward="false" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="55" />
+        <state relative-caret-position="639">
+          <caret line="126" column="7" lean-forward="false" selection-start-line="126" selection-start-column="7" selection-end-line="126" selection-end-column="7" />
           <folding>
-            <marker date="1511204200000" expanded="false" signature="6:47" ph="..." />
-            <marker date="1511204200000" expanded="true" signature="64:1251" ph="{...}" />
-            <marker date="1511204200000" expanded="true" signature="93:1249" ph="{...}" />
-            <marker date="1511204200000" expanded="true" signature="146:1243" ph="{...}" />
-            <marker date="1511204200000" expanded="true" signature="337:408" ph="{...}" />
-            <marker date="1511204200000" expanded="true" signature="855:1004" ph="{...}" />
-            <marker date="1511204200000" expanded="true" signature="906:990" ph="{...}" />
-            <marker date="1511204200000" expanded="true" signature="1048:1119" ph="{...}" />
+            <marker date="1511205671000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1511205671000" expanded="true" signature="80:4136" ph="{...}" />
+            <marker date="1511205671000" expanded="true" signature="109:4134" ph="{...}" />
+            <marker date="1511205671000" expanded="true" signature="162:4128" ph="{...}" />
+            <marker date="1511205671000" expanded="false" signature="185:1082" ph="/* var names = new List&lt;string&gt;(); ... */" />
+            <marker date="1511205671000" expanded="false" signature="1096:1508" ph="/* Console.WriteLine(&quot;What's your name? &quot;); ... */" />
+            <marker date="1511205671000" expanded="false" signature="1534:2169" ph="/* var numbers = new List&lt;int&gt;(); ... */" />
+            <marker date="1511205671000" expanded="false" signature="2208:2921" ph="/* var numbers = new List&lt;int&gt;(); ... */" />
+            <marker date="1511205671000" expanded="true" signature="2978:3402" ph="{...}" />
+            <marker date="1511205671000" expanded="true" signature="3175:3337" ph="{...}" />
+            <marker date="1511205671000" expanded="true" signature="3655:3954" ph="{...}" />
+            <marker date="1511205671000" expanded="true" signature="3755:3867" ph="{...}" />
           </folding>
         </state>
       </provider>

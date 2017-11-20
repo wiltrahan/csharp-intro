@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/ArrayandListExercises/ArrayandListExercises/bin/Debug/ArrayandListExercises.exe
+/Users/twilorip/Desktop/C#/ArrayandListExercises/ArrayandListExercises/bin/Debug/ArrayandListExercises.pdb
+/Users/twilorip/Desktop/C#/ArrayandListExercises/ArrayandListExercises/obj/Debug/ArrayandListExercises.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/ArrayandListExercises/ArrayandListExercises/obj/Debug/ArrayandListExercises.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/ArrayandListExercises/ArrayandListExercises/obj/Debug/ArrayandListExercises.exe
+/Users/twilorip/Desktop/C#/ArrayandListExercises/ArrayandListExercises/obj/Debug/ArrayandListExercises.pdb

@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/Path/Path/bin/Debug/Path.exe
+/Users/twilorip/Desktop/C#/Path/Path/bin/Debug/Path.pdb
+/Users/twilorip/Desktop/C#/Path/Path/obj/Debug/Path.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/Path/Path/obj/Debug/Path.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/Path/Path/obj/Debug/Path.exe
+/Users/twilorip/Desktop/C#/Path/Path/obj/Debug/Path.pdb

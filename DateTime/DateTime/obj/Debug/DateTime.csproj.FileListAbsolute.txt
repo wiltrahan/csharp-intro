@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/DateTime/DateTime/bin/Debug/DateTime.exe
+/Users/twilorip/Desktop/C#/DateTime/DateTime/bin/Debug/DateTime.pdb
+/Users/twilorip/Desktop/C#/DateTime/DateTime/obj/Debug/DateTime.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/DateTime/DateTime/obj/Debug/DateTime.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/DateTime/DateTime/obj/Debug/DateTime.exe
+/Users/twilorip/Desktop/C#/DateTime/DateTime/obj/Debug/DateTime.pdb

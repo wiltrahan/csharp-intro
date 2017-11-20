@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/RefAndValueTypes2/RefAndValueTypes2/bin/Debug/RefAndValueTypes2.exe
+/Users/twilorip/Desktop/C#/RefAndValueTypes2/RefAndValueTypes2/bin/Debug/RefAndValueTypes2.pdb
+/Users/twilorip/Desktop/C#/RefAndValueTypes2/RefAndValueTypes2/obj/Debug/RefAndValueTypes2.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/RefAndValueTypes2/RefAndValueTypes2/obj/Debug/RefAndValueTypes2.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/RefAndValueTypes2/RefAndValueTypes2/obj/Debug/RefAndValueTypes2.exe
+/Users/twilorip/Desktop/C#/RefAndValueTypes2/RefAndValueTypes2/obj/Debug/RefAndValueTypes2.pdb

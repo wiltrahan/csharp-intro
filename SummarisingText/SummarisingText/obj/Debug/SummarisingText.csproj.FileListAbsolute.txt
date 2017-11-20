@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/SummarisingText/SummarisingText/bin/Debug/SummarisingText.exe
+/Users/twilorip/Desktop/C#/SummarisingText/SummarisingText/bin/Debug/SummarisingText.pdb
+/Users/twilorip/Desktop/C#/SummarisingText/SummarisingText/obj/Debug/SummarisingText.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/SummarisingText/SummarisingText/obj/Debug/SummarisingText.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/SummarisingText/SummarisingText/obj/Debug/SummarisingText.exe
+/Users/twilorip/Desktop/C#/SummarisingText/SummarisingText/obj/Debug/SummarisingText.pdb

@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/RandomClass/RandomClass/bin/Debug/RandomClass.exe
+/Users/twilorip/Desktop/C#/RandomClass/RandomClass/bin/Debug/RandomClass.pdb
+/Users/twilorip/Desktop/C#/RandomClass/RandomClass/obj/Debug/RandomClass.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/RandomClass/RandomClass/obj/Debug/RandomClass.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/RandomClass/RandomClass/obj/Debug/RandomClass.exe
+/Users/twilorip/Desktop/C#/RandomClass/RandomClass/obj/Debug/RandomClass.pdb

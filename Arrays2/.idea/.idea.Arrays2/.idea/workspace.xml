@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42948461-451f-4b6b-8d09-10896cfc8f50" name="Default" comment="" />
+    <list default="true" id="1c2e58f3-d323-43a3-b322-99ebb2da6607" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Arrays2/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Arrays2/.idea/indexLayout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Arrays2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Arrays2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Arrays2/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RandomClass/.idea/.idea.RandomClass/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../RandomClass/.idea/.idea.RandomClass/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,16 +19,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RandomClass/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Arrays2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="600">
+              <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
               <folding>
-                <marker date="1511200766000" expanded="false" signature="6:47" ph="..." />
-                <marker date="1511200766000" expanded="true" signature="70:748" ph="{...}" />
-                <marker date="1511200766000" expanded="true" signature="99:746" ph="{...}" />
-                <marker date="1511200766000" expanded="true" signature="152:740" ph="{...}" />
-                <marker date="1511200766000" expanded="true" signature="175:355" ph="/* var random = new Random(); ... */" />
+                <marker date="1511203262000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1511203262000" expanded="true" signature="66:1318" ph="{...}" />
+                <marker date="1511203262000" expanded="true" signature="95:1316" ph="{...}" />
+                <marker date="1511203262000" expanded="true" signature="148:1310" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,12 +39,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/RandomClass/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Arrays2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RandomClass/Program.cs" />
+        <option value="$PROJECT_DIR$/Arrays2/Program.cs" />
       </list>
     </option>
   </component>
@@ -70,12 +76,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="RandomClass (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Arrays2 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -83,7 +90,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,14 +109,14 @@
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/RandomClass/bin/Debug/RandomClass.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Arrays2/bin/Debug/Arrays2.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RandomClass/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays2/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RandomClass/RandomClass.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Arrays2/Arrays2.csproj" />
       <option name="PROJECT_OUTPUT_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
@@ -121,17 +127,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="42948461-451f-4b6b-8d09-10896cfc8f50" name="Default" comment="" />
-      <created>1511200192538</created>
+      <changelist id="1c2e58f3-d323-43a3-b322-99ebb2da6607" name="Default" comment="" />
+      <created>1511202661083</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1511200192538</updated>
-      <workItem from="1511200193857" duration="1280000" />
+      <updated>1511202661083</updated>
+      <workItem from="1511202662365" duration="716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1280000" />
+    <option name="totallyTimeSpent" value="716000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -149,11 +155,11 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2827688" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2827688" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09057438" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.096465394" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29857144" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -179,16 +185,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RandomClass/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Arrays2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="600">
+          <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
           <folding>
-            <marker date="1511200766000" expanded="false" signature="6:47" ph="..." />
-            <marker date="1511200766000" expanded="true" signature="70:748" ph="{...}" />
-            <marker date="1511200766000" expanded="true" signature="99:746" ph="{...}" />
-            <marker date="1511200766000" expanded="true" signature="152:740" ph="{...}" />
-            <marker date="1511200766000" expanded="true" signature="175:355" ph="/* var random = new Random(); ... */" />
+            <marker date="1511203262000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1511203262000" expanded="true" signature="66:1318" ph="{...}" />
+            <marker date="1511203262000" expanded="true" signature="95:1316" ph="{...}" />
+            <marker date="1511203262000" expanded="true" signature="148:1310" ph="{...}" />
           </folding>
         </state>
       </provider>

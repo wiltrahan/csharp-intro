@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/TimeSpan/TimeSpan/bin/Debug/TimeSpan.exe
+/Users/twilorip/Desktop/C#/TimeSpan/TimeSpan/bin/Debug/TimeSpan.pdb
+/Users/twilorip/Desktop/C#/TimeSpan/TimeSpan/obj/Debug/TimeSpan.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/TimeSpan/TimeSpan/obj/Debug/TimeSpan.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/TimeSpan/TimeSpan/obj/Debug/TimeSpan.exe
+/Users/twilorip/Desktop/C#/TimeSpan/TimeSpan/obj/Debug/TimeSpan.pdb

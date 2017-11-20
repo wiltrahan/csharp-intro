@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/FileandFileInfo/FileandFileInfo/bin/Debug/FileandFileInfo.exe
+/Users/twilorip/Desktop/C#/FileandFileInfo/FileandFileInfo/bin/Debug/FileandFileInfo.pdb
+/Users/twilorip/Desktop/C#/FileandFileInfo/FileandFileInfo/obj/Debug/FileandFileInfo.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/FileandFileInfo/FileandFileInfo/obj/Debug/FileandFileInfo.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/FileandFileInfo/FileandFileInfo/obj/Debug/FileandFileInfo.exe
+/Users/twilorip/Desktop/C#/FileandFileInfo/FileandFileInfo/obj/Debug/FileandFileInfo.pdb

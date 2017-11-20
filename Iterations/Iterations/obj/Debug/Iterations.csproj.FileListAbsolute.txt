@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/Iterations/Iterations/bin/Debug/Iterations.exe
+/Users/twilorip/Desktop/C#/Iterations/Iterations/bin/Debug/Iterations.pdb
+/Users/twilorip/Desktop/C#/Iterations/Iterations/obj/Debug/Iterations.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/Iterations/Iterations/obj/Debug/Iterations.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/Iterations/Iterations/obj/Debug/Iterations.exe
+/Users/twilorip/Desktop/C#/Iterations/Iterations/obj/Debug/Iterations.pdb

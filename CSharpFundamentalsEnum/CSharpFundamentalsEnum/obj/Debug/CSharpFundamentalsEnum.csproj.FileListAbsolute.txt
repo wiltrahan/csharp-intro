@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/CSharpFundamentalsEnum/CSharpFundamentalsEnum/bin/Debug/CSharpFundamentalsEnum.exe
+/Users/twilorip/Desktop/C#/CSharpFundamentalsEnum/CSharpFundamentalsEnum/bin/Debug/CSharpFundamentalsEnum.pdb
+/Users/twilorip/Desktop/C#/CSharpFundamentalsEnum/CSharpFundamentalsEnum/obj/Debug/CSharpFundamentalsEnum.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/CSharpFundamentalsEnum/CSharpFundamentalsEnum/obj/Debug/CSharpFundamentalsEnum.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/CSharpFundamentalsEnum/CSharpFundamentalsEnum/obj/Debug/CSharpFundamentalsEnum.exe
+/Users/twilorip/Desktop/C#/CSharpFundamentalsEnum/CSharpFundamentalsEnum/obj/Debug/CSharpFundamentalsEnum.pdb

@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/StringBuilder/StringBuilder/bin/Debug/StringBuilder.exe
+/Users/twilorip/Desktop/C#/StringBuilder/StringBuilder/bin/Debug/StringBuilder.pdb
+/Users/twilorip/Desktop/C#/StringBuilder/StringBuilder/obj/Debug/StringBuilder.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/StringBuilder/StringBuilder/obj/Debug/StringBuilder.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/StringBuilder/StringBuilder/obj/Debug/StringBuilder.exe
+/Users/twilorip/Desktop/C#/StringBuilder/StringBuilder/obj/Debug/StringBuilder.pdb

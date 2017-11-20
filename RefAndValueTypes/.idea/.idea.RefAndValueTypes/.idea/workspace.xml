@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f217915-b28b-485a-9755-50c2dd5ec8e9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.CSharpFundamentalsEnum/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpFundamentalsEnum/.idea/workspace.xml" />
+    <list default="true" id="bb2adcb5-9734-4089-9871-d3bd83753e53" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.RefAndValueTypes/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.RefAndValueTypes/.idea/indexLayout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.RefAndValueTypes/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.RefAndValueTypes/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.RefAndValueTypes/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CSharpFundamentalsEnum/.idea/.idea.CSharpFundamentalsEnum/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CSharpFundamentalsEnum/.idea/.idea.CSharpFundamentalsEnum/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +19,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSharpFundamentalsEnum/Program.cs">
+        <entry file="file://$PROJECT_DIR$/RefAndValueTypes/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="18" column="97" lean-forward="false" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
               <folding>
-                <marker date="1511195840000" expanded="false" signature="6:47" ph="..." />
-                <marker date="1511195840000" expanded="true" signature="81:690" ph="{...}" />
-                <marker date="1511195840000" expanded="true" signature="115:206" ph="{...}" />
-                <marker date="1511195840000" expanded="true" signature="238:688" ph="{...}" />
-                <marker date="1511195840000" expanded="true" signature="291:682" ph="{...}" />
+                <marker date="1511196361000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1511196361000" expanded="true" signature="75:530" ph="{...}" />
+                <marker date="1511196361000" expanded="true" signature="104:528" ph="{...}" />
+                <marker date="1511196361000" expanded="true" signature="157:522" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -35,12 +39,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CSharpFundamentalsEnum/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RefAndValueTypes/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CSharpFundamentalsEnum/Program.cs" />
+        <option value="$PROJECT_DIR$/RefAndValueTypes/Program.cs" />
       </list>
     </option>
   </component>
@@ -56,9 +60,7 @@
     <option name="width" value="1400" />
     <option name="height" value="806" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -79,7 +81,7 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="CSharpFundamentalsEnum (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="RefAndValueTypes (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -107,14 +109,14 @@
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/CSharpFundamentalsEnum/bin/Debug/CSharpFundamentalsEnum.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RefAndValueTypes/bin/Debug/RefAndValueTypes.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CSharpFundamentalsEnum/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RefAndValueTypes/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CSharpFundamentalsEnum/CSharpFundamentalsEnum.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RefAndValueTypes/RefAndValueTypes.csproj" />
       <option name="PROJECT_OUTPUT_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
@@ -125,17 +127,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f217915-b28b-485a-9755-50c2dd5ec8e9" name="Default" comment="" />
-      <created>1511195537255</created>
+      <changelist id="bb2adcb5-9734-4089-9871-d3bd83753e53" name="Default" comment="" />
+      <created>1511196059122</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1511195537255</updated>
-      <workItem from="1511195538665" duration="384000" />
+      <updated>1511196059122</updated>
+      <workItem from="1511196060392" duration="299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="384000" />
+    <option name="totallyTimeSpent" value="299000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,6 +150,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1400" height="806" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -155,9 +158,9 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2827688" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10972018" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29857144" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -183,16 +186,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CSharpFundamentalsEnum/Program.cs">
+    <entry file="file://$PROJECT_DIR$/RefAndValueTypes/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        <state relative-caret-position="255">
+          <caret line="18" column="97" lean-forward="false" selection-start-line="18" selection-start-column="97" selection-end-line="18" selection-end-column="97" />
           <folding>
-            <marker date="1511195840000" expanded="false" signature="6:47" ph="..." />
-            <marker date="1511195840000" expanded="true" signature="81:690" ph="{...}" />
-            <marker date="1511195840000" expanded="true" signature="115:206" ph="{...}" />
-            <marker date="1511195840000" expanded="true" signature="238:688" ph="{...}" />
-            <marker date="1511195840000" expanded="true" signature="291:682" ph="{...}" />
+            <marker date="1511196361000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1511196361000" expanded="true" signature="75:530" ph="{...}" />
+            <marker date="1511196361000" expanded="true" signature="104:528" ph="{...}" />
+            <marker date="1511196361000" expanded="true" signature="157:522" ph="{...}" />
           </folding>
         </state>
       </provider>

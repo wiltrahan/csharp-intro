@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/DirectoryInfo/DirectoryInfo/bin/Debug/DirectoryInfo.exe
+/Users/twilorip/Desktop/C#/DirectoryInfo/DirectoryInfo/bin/Debug/DirectoryInfo.pdb
+/Users/twilorip/Desktop/C#/DirectoryInfo/DirectoryInfo/obj/Debug/DirectoryInfo.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/DirectoryInfo/DirectoryInfo/obj/Debug/DirectoryInfo.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/DirectoryInfo/DirectoryInfo/obj/Debug/DirectoryInfo.exe
+/Users/twilorip/Desktop/C#/DirectoryInfo/DirectoryInfo/obj/Debug/DirectoryInfo.pdb

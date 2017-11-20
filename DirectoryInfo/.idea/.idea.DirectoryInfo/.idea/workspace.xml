@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1c8fc24-3a1e-4470-9f5a-9fee0536b607" name="Default" comment="" />
+    <list default="true" id="0177c140-b39c-47d9-afca-13af2c2058ba" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.DirectoryInfo/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.DirectoryInfo/.idea/indexLayout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.DirectoryInfo/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.DirectoryInfo/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.DirectoryInfo/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../FileandFileInfo/.idea/.idea.FileandFileInfo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../FileandFileInfo/.idea/.idea.FileandFileInfo/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +19,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FileandFileInfo/Program.cs">
+        <entry file="file://$PROJECT_DIR$/DirectoryInfo/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="435">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding>
-                <marker date="1511211447000" expanded="true" signature="6:64" ph="..." />
-                <marker date="1511211447000" expanded="true" signature="91:715" ph="{...}" />
-                <marker date="1511211447000" expanded="true" signature="120:713" ph="{...}" />
-                <marker date="1511211447000" expanded="true" signature="173:707" ph="{...}" />
-                <marker date="1511211447000" expanded="true" signature="380:427" ph="{...}" />
-                <marker date="1511211447000" expanded="true" signature="637:684" ph="{...}" />
+                <marker date="1511212008000" expanded="true" signature="6:64" ph="..." />
+                <marker date="1511212008000" expanded="true" signature="88:938" ph="{...}" />
+                <marker date="1511212008000" expanded="true" signature="117:936" ph="{...}" />
+                <marker date="1511212008000" expanded="true" signature="170:930" ph="{...}" />
+                <marker date="1511212008000" expanded="true" signature="394:463" ph="{...}" />
+                <marker date="1511212008000" expanded="true" signature="658:732" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -34,12 +41,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FileandFileInfo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DirectoryInfo/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FileandFileInfo/Program.cs" />
+        <option value="$PROJECT_DIR$/DirectoryInfo/Program.cs" />
       </list>
     </option>
   </component>
@@ -71,13 +78,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="FileandFileInfo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DirectoryInfo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -85,6 +91,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -104,17 +111,17 @@
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DirectoryInfo/bin/Debug/DirectoryInfo.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DirectoryInfo/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DirectoryInfo/DirectoryInfo.csproj" />
       <option name="PROJECT_OUTPUT_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -122,17 +129,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1c8fc24-3a1e-4470-9f5a-9fee0536b607" name="Default" comment="" />
-      <created>1511210996460</created>
+      <changelist id="0177c140-b39c-47d9-afca-13af2c2058ba" name="Default" comment="" />
+      <created>1511211526953</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1511210996460</updated>
-      <workItem from="1511210997714" duration="486000" />
+      <updated>1511211526953</updated>
+      <workItem from="1511211528232" duration="479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="486000" />
+    <option name="totallyTimeSpent" value="479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -145,16 +152,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1400" height="806" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28285715" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2827688" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29857144" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -180,17 +188,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FileandFileInfo/Program.cs">
+    <entry file="file://$PROJECT_DIR$/DirectoryInfo/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="435">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding>
-            <marker date="1511211447000" expanded="true" signature="6:64" ph="..." />
-            <marker date="1511211447000" expanded="true" signature="91:715" ph="{...}" />
-            <marker date="1511211447000" expanded="true" signature="120:713" ph="{...}" />
-            <marker date="1511211447000" expanded="true" signature="173:707" ph="{...}" />
-            <marker date="1511211447000" expanded="true" signature="380:427" ph="{...}" />
-            <marker date="1511211447000" expanded="true" signature="637:684" ph="{...}" />
+            <marker date="1511212008000" expanded="true" signature="6:64" ph="..." />
+            <marker date="1511212008000" expanded="true" signature="88:938" ph="{...}" />
+            <marker date="1511212008000" expanded="true" signature="117:936" ph="{...}" />
+            <marker date="1511212008000" expanded="true" signature="170:930" ph="{...}" />
+            <marker date="1511212008000" expanded="true" signature="394:463" ph="{...}" />
+            <marker date="1511212008000" expanded="true" signature="658:732" ph="{...}" />
           </folding>
         </state>
       </provider>

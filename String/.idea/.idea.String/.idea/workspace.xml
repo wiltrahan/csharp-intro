@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca81a57b-8508-40d8-a0d9-8496e82b6e92" name="Default" comment="" />
+    <list default="true" id="9ad3ec95-ed6a-49f9-8860-5f6d6f1e3a6f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.String/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.String/.idea/indexLayout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.String/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.String/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.String/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TimeSpan/.idea/.idea.TimeSpan/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TimeSpan/.idea/.idea.TimeSpan/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,15 +19,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TimeSpan/Program.cs">
+        <entry file="file://$PROJECT_DIR$/String/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="32" column="73" lean-forward="false" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
+            <state relative-caret-position="480">
+              <caret line="33" column="47" lean-forward="false" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
               <folding>
-                <marker date="1511207798000" expanded="false" signature="6:47" ph="..." />
-                <marker date="1511207798000" expanded="true" signature="67:1185" ph="{...}" />
-                <marker date="1511207798000" expanded="true" signature="96:1183" ph="{...}" />
-                <marker date="1511207798000" expanded="true" signature="149:1177" ph="{...}" />
+                <marker date="1511208606000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1511208606000" expanded="true" signature="65:1183" ph="{...}" />
+                <marker date="1511208606000" expanded="true" signature="94:1181" ph="{...}" />
+                <marker date="1511208606000" expanded="true" signature="147:1175" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -32,12 +39,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TimeSpan/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/String/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TimeSpan/Program.cs" />
+        <option value="$PROJECT_DIR$/String/Program.cs" />
       </list>
     </option>
   </component>
@@ -75,7 +82,7 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="TimeSpan (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="String (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -102,14 +109,14 @@
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/TimeSpan/bin/Debug/TimeSpan.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/String/bin/Debug/String.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TimeSpan/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <envs />
       <option name="USE_MONO" value="0" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TimeSpan/TimeSpan.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/String/String.csproj" />
       <option name="PROJECT_OUTPUT_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
@@ -120,17 +127,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ca81a57b-8508-40d8-a0d9-8496e82b6e92" name="Default" comment="" />
-      <created>1511207424942</created>
+      <changelist id="9ad3ec95-ed6a-49f9-8860-5f6d6f1e3a6f" name="Default" comment="" />
+      <created>1511208043285</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1511207424942</updated>
-      <workItem from="1511207426152" duration="539000" />
+      <updated>1511208043285</updated>
+      <workItem from="1511208044446" duration="567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="539000" />
+    <option name="totallyTimeSpent" value="567000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,11 +155,11 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2827688" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2827688" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29857144" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -178,15 +185,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TimeSpan/Program.cs">
+    <entry file="file://$PROJECT_DIR$/String/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="73" lean-forward="false" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
+        <state relative-caret-position="480">
+          <caret line="33" column="47" lean-forward="false" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
           <folding>
-            <marker date="1511207798000" expanded="false" signature="6:47" ph="..." />
-            <marker date="1511207798000" expanded="true" signature="67:1185" ph="{...}" />
-            <marker date="1511207798000" expanded="true" signature="96:1183" ph="{...}" />
-            <marker date="1511207798000" expanded="true" signature="149:1177" ph="{...}" />
+            <marker date="1511208606000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1511208606000" expanded="true" signature="65:1183" ph="{...}" />
+            <marker date="1511208606000" expanded="true" signature="94:1181" ph="{...}" />
+            <marker date="1511208606000" expanded="true" signature="147:1175" ph="{...}" />
           </folding>
         </state>
       </provider>

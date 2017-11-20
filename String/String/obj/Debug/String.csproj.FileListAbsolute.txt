@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/String/String/bin/Debug/String.exe
+/Users/twilorip/Desktop/C#/String/String/bin/Debug/String.pdb
+/Users/twilorip/Desktop/C#/String/String/obj/Debug/String.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/String/String/obj/Debug/String.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/String/String/obj/Debug/String.exe
+/Users/twilorip/Desktop/C#/String/String/obj/Debug/String.pdb

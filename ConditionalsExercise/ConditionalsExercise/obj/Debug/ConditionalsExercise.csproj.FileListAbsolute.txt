@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/ConditionalsExercise/ConditionalsExercise/bin/Debug/ConditionalsExercise.exe
+/Users/twilorip/Desktop/C#/ConditionalsExercise/ConditionalsExercise/bin/Debug/ConditionalsExercise.pdb
+/Users/twilorip/Desktop/C#/ConditionalsExercise/ConditionalsExercise/obj/Debug/ConditionalsExercise.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/ConditionalsExercise/ConditionalsExercise/obj/Debug/ConditionalsExercise.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/ConditionalsExercise/ConditionalsExercise/obj/Debug/ConditionalsExercise.exe
+/Users/twilorip/Desktop/C#/ConditionalsExercise/ConditionalsExercise/obj/Debug/ConditionalsExercise.pdb

@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/ifElseSwitch/ifElseSwitch/bin/Debug/ifElseSwitch.exe
+/Users/twilorip/Desktop/C#/ifElseSwitch/ifElseSwitch/bin/Debug/ifElseSwitch.pdb
+/Users/twilorip/Desktop/C#/ifElseSwitch/ifElseSwitch/obj/Debug/ifElseSwitch.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/ifElseSwitch/ifElseSwitch/obj/Debug/ifElseSwitch.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/ifElseSwitch/ifElseSwitch/obj/Debug/ifElseSwitch.exe
+/Users/twilorip/Desktop/C#/ifElseSwitch/ifElseSwitch/obj/Debug/ifElseSwitch.pdb

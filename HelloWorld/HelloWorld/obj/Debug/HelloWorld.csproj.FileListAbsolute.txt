@@ -4,3 +4,9 @@
 /Users/twilorip/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
 /Users/twilorip/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
 /Users/twilorip/Desktop/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
+/Users/twilorip/Desktop/C#/csharp-intro/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/twilorip/Desktop/C#/csharp-intro/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/twilorip/Desktop/C#/csharp-intro/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/csharp-intro/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/csharp-intro/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/twilorip/Desktop/C#/csharp-intro/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb

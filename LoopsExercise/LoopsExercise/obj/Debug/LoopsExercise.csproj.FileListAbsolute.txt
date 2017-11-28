@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/LoopsExercise/LoopsExercise/bin/Debug/LoopsExercise.exe
+/Users/twilorip/Desktop/C#/LoopsExercise/LoopsExercise/bin/Debug/LoopsExercise.pdb
+/Users/twilorip/Desktop/C#/LoopsExercise/LoopsExercise/obj/Debug/LoopsExercise.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/LoopsExercise/LoopsExercise/obj/Debug/LoopsExercise.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/LoopsExercise/LoopsExercise/obj/Debug/LoopsExercise.exe
+/Users/twilorip/Desktop/C#/LoopsExercise/LoopsExercise/obj/Debug/LoopsExercise.pdb

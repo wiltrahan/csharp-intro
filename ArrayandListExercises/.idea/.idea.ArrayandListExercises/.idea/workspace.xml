@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a35c5c32-e298-451d-b0a1-c39e73d2031b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/indexLayout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Lists/.idea/.idea.Lists/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Lists/.idea/.idea.Lists/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayandListExercises/bin/Debug/ArrayandListExercises.exe" afterPath="$PROJECT_DIR$/ArrayandListExercises/bin/Debug/ArrayandListExercises.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayandListExercises/bin/Debug/ArrayandListExercises.pdb" afterPath="$PROJECT_DIR$/ArrayandListExercises/bin/Debug/ArrayandListExercises.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayandListExercises/obj/Debug/ArrayandListExercises.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/ArrayandListExercises/obj/Debug/ArrayandListExercises.csproj.CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayandListExercises/obj/Debug/ArrayandListExercises.exe" afterPath="$PROJECT_DIR$/ArrayandListExercises/obj/Debug/ArrayandListExercises.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayandListExercises/obj/Debug/ArrayandListExercises.pdb" afterPath="$PROJECT_DIR$/ArrayandListExercises/obj/Debug/ArrayandListExercises.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.ArrayandListExercises/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayandListExercises/Program.cs" afterPath="$PROJECT_DIR$/ArrayandListExercises/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArrayandListExercises/obj/Debug/ArrayandListExercises.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/ArrayandListExercises/obj/Debug/ArrayandListExercises.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LoopsExercise/.idea/.idea.LoopsExercise/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/../LoopsExercise/.idea/.idea.LoopsExercise/.idea/contentModel.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LoopsExercise/.idea/.idea.LoopsExercise/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../LoopsExercise/.idea/.idea.LoopsExercise/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,25 +22,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ArrayandListExercises/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="126" column="7" lean-forward="false" selection-start-line="126" selection-start-column="7" selection-end-line="126" selection-end-column="7" />
+            <state relative-caret-position="135">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
-                <marker date="1511205671000" expanded="false" signature="6:47" ph="..." />
-                <marker date="1511205671000" expanded="true" signature="80:4136" ph="{...}" />
-                <marker date="1511205671000" expanded="true" signature="109:4134" ph="{...}" />
-                <marker date="1511205671000" expanded="true" signature="162:4128" ph="{...}" />
-                <marker date="1511205671000" expanded="false" signature="185:1082" ph="/* var names = new List&lt;string&gt;(); ... */" />
-                <marker date="1511205671000" expanded="false" signature="1096:1508" ph="/* Console.WriteLine(&quot;What's your name? &quot;); ... */" />
-                <marker date="1511205671000" expanded="false" signature="1534:2169" ph="/* var numbers = new List&lt;int&gt;(); ... */" />
-                <marker date="1511205671000" expanded="false" signature="2208:2921" ph="/* var numbers = new List&lt;int&gt;(); ... */" />
-                <marker date="1511205671000" expanded="true" signature="2978:3402" ph="{...}" />
-                <marker date="1511205671000" expanded="true" signature="3175:3337" ph="{...}" />
-                <marker date="1511205671000" expanded="true" signature="3655:3954" ph="{...}" />
-                <marker date="1511205671000" expanded="true" signature="3755:3867" ph="{...}" />
+                <marker date="1511992704000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1511992704000" expanded="true" signature="80:6223" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="109:6215" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="171:333" ph="{...}" />
+                <marker date="1511992704000" expanded="false" signature="193:311" ph="/* Exercise1(); ... */" />
+                <marker date="1511992704000" expanded="false" signature="342:990" ph="/* If no one likes your post, it doesn't display anything. ... */" />
+                <marker date="1511992704000" expanded="false" signature="1030:1959" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="1109:1390" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="1422:1566" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="1604:1715" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="1753:1850" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="1867:1949" ph="{...}" />
+                <marker date="1511992704000" expanded="false" signature="1969:2162" ph="/* Write a program and ask the user to enter their name. ... */" />
+                <marker date="1511992704000" expanded="false" signature="2202:2621" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="2410:2494" ph="{...}" />
+                <marker date="1511992704000" expanded="false" signature="2639:2911" ph="/* Write a program and ask the user to enter 5 numbers. ... */" />
+                <marker date="1511992704000" expanded="false" signature="2951:3644" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="3041:3432" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="3222:3381" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="3559:3634" ph="{...}" />
+                <marker date="1511992704000" expanded="false" signature="3662:3861" ph="/* Write a program and ask the user to continuously enter a number or type &quot;Quit&quot; to exit. ... */" />
+                <marker date="1511992704000" expanded="false" signature="3901:4638" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="3978:4259" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="4353:4480" ph="{...}" />
+                <marker date="1511992704000" expanded="false" signature="4656:4939" ph="/* Write a program and ask the user to supply a list of comma separated numbers (e.g 5, 1, 9, 2, 10). ... */" />
+                <marker date="1511992704000" expanded="false" signature="4979:6204" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="5047:5520" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="5270:5436" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="5747:6044" ph="{...}" />
+                <marker date="1511992704000" expanded="true" signature="5847:5959" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -84,7 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -98,6 +120,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,11 +164,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511204356745</updated>
       <workItem from="1511204358024" duration="1794000" />
+      <workItem from="1511992140429" duration="564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1794000" />
+    <option name="totallyTimeSpent" value="2358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -158,7 +182,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="25" y="23" width="1400" height="806" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -166,9 +189,9 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3468336" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533137" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569956" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29857144" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -196,21 +219,78 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ArrayandListExercises/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="126" column="7" lean-forward="false" selection-start-line="126" selection-start-column="7" selection-end-line="126" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1511205671000" expanded="false" signature="6:47" ph="..." />
-            <marker date="1511205671000" expanded="true" signature="80:4136" ph="{...}" />
-            <marker date="1511205671000" expanded="true" signature="109:4134" ph="{...}" />
-            <marker date="1511205671000" expanded="true" signature="162:4128" ph="{...}" />
-            <marker date="1511205671000" expanded="false" signature="185:1082" ph="/* var names = new List&lt;string&gt;(); ... */" />
-            <marker date="1511205671000" expanded="false" signature="1096:1508" ph="/* Console.WriteLine(&quot;What's your name? &quot;); ... */" />
-            <marker date="1511205671000" expanded="false" signature="1534:2169" ph="/* var numbers = new List&lt;int&gt;(); ... */" />
-            <marker date="1511205671000" expanded="false" signature="2208:2921" ph="/* var numbers = new List&lt;int&gt;(); ... */" />
-            <marker date="1511205671000" expanded="true" signature="2978:3402" ph="{...}" />
-            <marker date="1511205671000" expanded="true" signature="3175:3337" ph="{...}" />
-            <marker date="1511205671000" expanded="true" signature="3655:3954" ph="{...}" />
-            <marker date="1511205671000" expanded="true" signature="3755:3867" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1511992704000" expanded="true" signature="80:6223" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="109:6215" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="171:333" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="193:311" ph="/* Exercise1(); ... */" />
+            <marker date="1511992704000" expanded="false" signature="342:990" ph="/* If no one likes your post, it doesn't display anything. ... */" />
+            <marker date="1511992704000" expanded="false" signature="1030:1959" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1109:1390" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1422:1566" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1604:1715" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1753:1850" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1867:1949" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="1969:2162" ph="/* Write a program and ask the user to enter their name. ... */" />
+            <marker date="1511992704000" expanded="false" signature="2202:2621" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="2410:2494" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="2639:2911" ph="/* Write a program and ask the user to enter 5 numbers. ... */" />
+            <marker date="1511992704000" expanded="false" signature="2951:3644" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="3041:3432" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="3222:3381" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="3559:3634" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="3662:3861" ph="/* Write a program and ask the user to continuously enter a number or type &quot;Quit&quot; to exit. ... */" />
+            <marker date="1511992704000" expanded="false" signature="3901:4638" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="3978:4259" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="4353:4480" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="4656:4939" ph="/* Write a program and ask the user to supply a list of comma separated numbers (e.g 5, 1, 9, 2, 10). ... */" />
+            <marker date="1511992704000" expanded="false" signature="4979:6204" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="5047:5520" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="5270:5436" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="5747:6044" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="5847:5959" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayandListExercises/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <marker date="1511992704000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1511992704000" expanded="true" signature="80:6223" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="109:6215" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="171:333" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="193:311" ph="/* Exercise1(); ... */" />
+            <marker date="1511992704000" expanded="false" signature="342:990" ph="/* If no one likes your post, it doesn't display anything. ... */" />
+            <marker date="1511992704000" expanded="false" signature="1030:1959" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1109:1390" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1422:1566" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1604:1715" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1753:1850" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="1867:1949" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="1969:2162" ph="/* Write a program and ask the user to enter their name. ... */" />
+            <marker date="1511992704000" expanded="false" signature="2202:2621" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="2410:2494" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="2639:2911" ph="/* Write a program and ask the user to enter 5 numbers. ... */" />
+            <marker date="1511992704000" expanded="false" signature="2951:3644" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="3041:3432" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="3222:3381" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="3559:3634" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="3662:3861" ph="/* Write a program and ask the user to continuously enter a number or type &quot;Quit&quot; to exit. ... */" />
+            <marker date="1511992704000" expanded="false" signature="3901:4638" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="3978:4259" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="4353:4480" ph="{...}" />
+            <marker date="1511992704000" expanded="false" signature="4656:4939" ph="/* Write a program and ask the user to supply a list of comma separated numbers (e.g 5, 1, 9, 2, 10). ... */" />
+            <marker date="1511992704000" expanded="false" signature="4979:6204" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="5047:5520" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="5270:5436" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="5747:6044" ph="{...}" />
+            <marker date="1511992704000" expanded="true" signature="5847:5959" ph="{...}" />
           </folding>
         </state>
       </provider>

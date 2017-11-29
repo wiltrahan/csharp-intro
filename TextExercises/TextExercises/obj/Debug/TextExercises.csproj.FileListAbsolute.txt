@@ -1,0 +1,6 @@
+/Users/twilorip/Desktop/C#/csharp-intro/TextExercises/TextExercises/bin/Debug/TextExercises.exe
+/Users/twilorip/Desktop/C#/csharp-intro/TextExercises/TextExercises/bin/Debug/TextExercises.pdb
+/Users/twilorip/Desktop/C#/csharp-intro/TextExercises/TextExercises/obj/Debug/TextExercises.csprojResolveAssemblyReference.cache
+/Users/twilorip/Desktop/C#/csharp-intro/TextExercises/TextExercises/obj/Debug/TextExercises.csproj.CoreCompileInputs.cache
+/Users/twilorip/Desktop/C#/csharp-intro/TextExercises/TextExercises/obj/Debug/TextExercises.exe
+/Users/twilorip/Desktop/C#/csharp-intro/TextExercises/TextExercises/obj/Debug/TextExercises.pdb
